@@ -1,1 +1,2 @@
-# mern-ecommerce-project
+# Vogue Store
+## mern-ecommerce-project
